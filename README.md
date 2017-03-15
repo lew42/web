@@ -2,6 +2,7 @@
 
 - projects (let's build awesome wysiwyg, cms, user management, content management, crowd-sourced communities!)
 - broaden our skillsets (we don't need to know everything about everything.  but we should know the most important things about a lot of things)
+- make money ($$$), create a company (community, security, longevity, adaptability, strength in numbers...)
 
 
 
